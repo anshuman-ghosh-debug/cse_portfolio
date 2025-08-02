@@ -19,5 +19,7 @@ AceBot is a simple Discord bot built using Python It can:
 
 ## Setup:-
 pip install -r requirements.txt
-DISCORD_TOKEN=your_discord_bot_token_here
 python bot.py
+
+enter bot token in .env file
+DISCORD_TOKEN=your_discord_bot_token_here
